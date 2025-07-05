@@ -1,53 +1,53 @@
 {
   "questions": [
     {
-      "question": "What is the smallest country in the world?",
-      "options": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Which element has the atomic number 1?",
-      "options": ["Helium", "Hydrogen", "Lithium", "Carbon"],
-      "correctAnswer": 1
-    },
-    {
-      "question": "What is the longest river in the world?",
-      "options": ["Amazon", "Nile", "Mississippi", "Yangtze"],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Which company developed the Android operating system?",
-      "options": ["Apple", "Microsoft", "Google", "Samsung"],
+      "question": "What is the capital of France?",
+      "options": ["London", "Berlin", "Paris", "Madrid"],
       "correctAnswer": 2
     },
     {
-      "question": "What is the hardest natural substance on Earth?",
-      "options": ["Gold", "Iron", "Diamond", "Platinum"],
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is 2 + 2?",
+      "options": ["3", "4", "5", "6"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Which programming language is used for Android development?",
+      "options": ["Swift", "Kotlin", "Python", "Ruby"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the largest ocean on Earth?",
+      "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Michelangelo"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "options": ["Go", "Gd", "Au", "Ag"],
       "correctAnswer": 2
     },
     {
-      "question": "In which year did World War II end?",
-      "options": ["1944", "1945", "1946", "1947"],
+      "question": "Which country is famous for inventing pizza?",
+      "options": ["France", "Italy", "Spain", "Greece"],
       "correctAnswer": 1
     },
     {
-      "question": "What is the powerhouse of the cell?",
-      "options": ["Nucleus", "Mitochondria", "Ribosome", "Endoplasmic Reticulum"],
+      "question": "What is the fastest land animal?",
+      "options": ["Lion", "Cheetah", "Leopard", "Tiger"],
       "correctAnswer": 1
     },
     {
-      "question": "Which programming language was created by James Gosling?",
-      "options": ["Python", "Java", "C++", "JavaScript"],
-      "correctAnswer": 1
-    },
-    {
-      "question": "What is the square root of 144?",
-      "options": ["11", "12", "13", "14"],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Which planet has the most moons?",
-      "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+      "question": "Which year did the first iPhone release?",
+      "options": ["2006", "2007", "2008", "2009"],
       "correctAnswer": 1
     }
   ]
