@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question": "What is the smallest country in the world?",
+      "options": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Which element has the atomic number 1?",
+      "options": ["Helium", "Hydrogen", "Lithium", "Carbon"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the longest river in the world?",
+      "options": ["Amazon", "Nile", "Mississippi", "Yangtze"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Which company developed the Android operating system?",
+      "options": ["Apple", "Microsoft", "Google", "Samsung"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the hardest natural substance on Earth?",
+      "options": ["Gold", "Iron", "Diamond", "Platinum"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "In which year did World War II end?",
+      "options": ["1944", "1945", "1946", "1947"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the powerhouse of the cell?",
+      "options": ["Nucleus", "Mitochondria", "Ribosome", "Endoplasmic Reticulum"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Which programming language was created by James Gosling?",
+      "options": ["Python", "Java", "C++", "JavaScript"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the square root of 144?",
+      "options": ["11", "12", "13", "14"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Which planet has the most moons?",
+      "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+      "correctAnswer": 1
+    }
+  ]
+}
