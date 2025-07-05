@@ -29,7 +29,7 @@
       "question": "Who painted the Mona Lisa?",
       "options": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Michelangelo"],
       "correctAnswer": 1
-    }
+    },
     {
       "question": "Which element has the atomic number 1?",
       "options": ["Helium", "Hydrogen", "Lithium", "Carbon"],
